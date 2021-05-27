@@ -52,3 +52,6 @@ dist
 env
 hic_straw.egg-info
 
+*.egg-info
+build
+tmp
